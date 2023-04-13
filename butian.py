@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-cookie = 'UM_distinctid=186e007d1b3bfc-071125dee34c43-1e525634-16a7f0-186e007d1b4408; __btu__=66f8b9a72ec708556725631b948b78e9fbef8121; __btc__=f6d153c88980fdb22d175532e59e1d21e310ec4e; __btuc__=dc706088f939a8ae63e1c77480737448388d8c9c; wzws_sessionid=gDExMi44MS4xOTkuMjMwoGQ3yimBMzVkYWQ3gmJhNTI0NA==; PHPSESSID=esac5o4d7ocd7cg1d9a22s3ej2'
+cookie = '自己bp抓包填一下啦'
 headers = {
     'Host': 'www.butian.net',
     'Accept': 'application/json, text/javascript, */*; q=0.01',
